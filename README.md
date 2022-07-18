@@ -1,5 +1,7 @@
 # Random Fact Generator for Partnered Twitch Streamer Leon Noel
 
+[![Screenshot-2022-07-18-at-14-33-42.png](https://i.postimg.cc/wvwWCdV2/Screenshot-2022-07-18-at-14-33-42.png)](https://postimg.cc/ft0jdp1S)
+
 # About
 A very simple app that generates random facts and colors. Built for a twitch who ocassional throws out one of the random facts to break the monotony of   prolonged streams. 
 
